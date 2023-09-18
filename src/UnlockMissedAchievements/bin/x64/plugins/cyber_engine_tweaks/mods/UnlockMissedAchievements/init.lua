@@ -20,7 +20,7 @@ local achievements = {
     { fact = "sq030_done", threshold = 1, id = "UnderPressure", desc = "Judy vs Night City" },
     { fact = "sq031_done", threshold = 1, id = "BushidoAndChill", desc = "Bushido and Chill" },
     { fact = "mq033_grafitti_counter", threshold = 20, id = "Fortuneteller", desc = "The Wandering Fool" },
-    { fact = "ow_psychos_reward_collected", threshold = 1, id = "IAmMaxTac", desc = "IAmMaxTac"}
+    { fact = "ow_psychos_reward_collected", threshold = 1, id = "IAmMaxTac", desc = "I am The Law"}
 }
 
 function checkAchievements()
